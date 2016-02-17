@@ -1,0 +1,12 @@
+Controls:
+	UP,DOWN,LEFT,RIGHT -> movement of player.
+	P -> keyboard heicopter view.
+	O -> top view.
+	I -> tower view.
+	U -> helicopter view.
+	Y -> follow up view.
+	T -> adventurer view.
+	Z -> zoom in.
+	X -> zoom out.
+	SPACE -> jump.
+	S,A,W,D -> movement of camera in helicopter view.
